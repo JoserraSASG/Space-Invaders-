@@ -4,7 +4,7 @@ Este proyecto es una implementación en Python del clásico juego "Space Invader
 
 ## Cómo jugar
 
-- Usa las teclas de flecha izquierda/derecha para mover tu nave espacial.
+- Usa las teclas de flecha A/D para mover tu nave espacial.
 - Presiona la barra espaciadora para disparar a los enemigos.
 - Evita que los enemigos lleguen a la base de la pantalla o choquen contra tu nave.
 

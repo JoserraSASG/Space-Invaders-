@@ -33,7 +33,3 @@ El juego consiste en varios archivos clave:
 
 ¡Las contribuciones a este proyecto son bienvenidas! Si tienes ideas para mejorar el juego o solucionar problemas, no dudes en crear un pull request.
 
-## Licencia
-
-Este proyecto está bajo la licencia XYZ. Consulta el archivo `LICENSE` para más detalles.
-
